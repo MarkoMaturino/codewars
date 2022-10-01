@@ -19,5 +19,8 @@ function moveZeros(arr) {
     return result
   }
 // I feel as though I kind of overcomplicated this one.
+// I dealt with a problem with infinite loops and crashing on this Kata.
+// So I had to try to approach it from a differently
+
 
 // Maybe, I'll try to optimize this algorithm to be more efficent!
