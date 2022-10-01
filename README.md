@@ -1,3 +1,3 @@
-# codewars
-Katas solutions from codewars
+# My Codewars Katas Solutions
+
 
